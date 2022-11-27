@@ -1,0 +1,102 @@
+// Content pane two
+
+#contentPane-two{
+    .the-logos-sect{
+        .logo-main{
+            display: flex;
+            flex-direction: row;
+            width: 100%;
+            .blue-box{
+                background-color: #5bc6e8;
+                width:100%;
+                height: 517.5px;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                
+                .infuse-sec{
+                    img.infuse-logo{
+                        width:257.4px;
+                        height:137.5px;
+                        
+                    }
+                }
+                .ultra-sec{
+                    img.ultra-logo{
+                        width:257.4px;
+                        height:137.5px;
+                    }
+                }
+                .zenlens-sec{
+                    img.zenlens-logo{
+                        width:257.4px;
+                        height:137.5px;
+                    }
+                }
+                button{
+                    align-items: center;
+                    margin-top:9px;
+                }
+                button.blu-grd-btn{
+                    color:$white-color;
+                    font-family: $overpass-font;
+                    font-size: 23.25px;
+                    font-stretch: normal;
+                    font-weight: normal;
+                    letter-spacing: normal;
+                    border:0;
+                    padding: 21.5px 0.5px;
+                    width: 315.5px;
+                    background-image: linear-gradient(103deg, #0c7db8, #009aa6 52%, #37bcbd 100%);
+                }
+            }
+            .white-box{
+                background-color: $white-color;
+                width:100%;
+                height: 517.5px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                flex-direction: column;
+                
+                .bio-true{
+                    img.biotrue-logo{
+                        width:257.4px;
+                        height:137.5px;
+                    }
+                }
+
+                .revive-sec{
+                    img.revive-logo{
+                        width:257.4px;
+                        height:137.5px;
+                    }
+                }
+                .novakone-sec{
+                    img.novakone-logo{
+                        width:257.4px;
+                        height:137.5px;
+                    }
+                }
+
+                button{
+                    align-items: center;
+                    margin-top:9px;
+                }
+                button.blu-grd-btn{
+                    color:$white-color;
+                    font-family: $overpass-font;
+                    font-size: 23.25px;
+                    font-stretch: normal;
+                    font-weight: normal;
+                    letter-spacing: normal;
+                    border:0;
+                    padding: 21.5px 0.5px;
+                    width: 315.5px;
+                    background-image: $footer-bg;
+                }
+            }
+        }
+    }
+}

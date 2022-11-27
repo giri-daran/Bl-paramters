@@ -1,0 +1,59 @@
+section #BannerPane{
+    .banner-Section{
+        .main-bnr{
+            img.img-respsive {
+                width: 100%;
+            }
+           
+        }
+        .banner-text {
+            position: absolute;
+            top: 31%;
+            width: 403px;
+            max-width: 402px;
+            left: 11.25%;
+            text-align: center;
+
+            h1.Ready-to-fit-a-wide {
+                width:556.25px;
+                text-align: left;
+                font-family:$overpass-font;
+                font-size: 77.5px;
+                font-weight: 700;
+                font-stretch: normal;
+                font-style: normal;
+                line-height: 0.93;
+                letter-spacing: normal;
+                color: #0e568c;
+            }
+
+            p.Explore-our-full-por {
+                text-align: left;
+                font-family: $overpass-font;
+                font-size: 34.45px;
+                font-weight: normal; 
+                font-style: inherit; 
+                color: #0e568c;
+            }
+        } 
+        
+    }
+}
+
+// Content pane
+
+#ContentPane{
+    .Blue_Bar {
+        background-color: #0e568c;
+        padding: 88px 148px;
+
+        p.Excellent-patient-ca {
+            color: $white-color;
+            text-align: center;
+            font-size: $font-size-df +2;
+            font-weight: normal;
+            font-family: $overpass-font;
+            line-height: 1.41;
+        }
+    }
+}

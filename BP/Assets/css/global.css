@@ -1,0 +1,445 @@
+header.head-bar .NAV-Bar.nav-head {
+  background-color: #009aa6;
+  width: 100%;
+  padding: 13px 0;
+}
+header.head-bar a.logo-link img {
+  width: 257px;
+  height: 48px;
+  margin: 16px 0;
+  vertical-align: middle;
+}
+header.head-bar .contact-sec {
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: end;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+header.head-bar .contact-sec p {
+  margin-top: 30px;
+  margin-bottom: 0px;
+}
+header.head-bar .contact-sec span.contact-us {
+  color: white;
+  text-decoration: underline;
+  font-size: 15px;
+}
+
+#contentPane-two .the-logos-sect .logo-main {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  width: 100%;
+}
+#contentPane-two .the-logos-sect .logo-main .blue-box {
+  background-color: #5bc6e8;
+  width: 100%;
+  height: 517.5px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+#contentPane-two .the-logos-sect .logo-main .blue-box .infuse-sec img.infuse-logo {
+  width: 257.4px;
+  height: 137.5px;
+}
+#contentPane-two .the-logos-sect .logo-main .blue-box .ultra-sec img.ultra-logo {
+  width: 257.4px;
+  height: 137.5px;
+}
+#contentPane-two .the-logos-sect .logo-main .blue-box .zenlens-sec img.zenlens-logo {
+  width: 257.4px;
+  height: 137.5px;
+}
+#contentPane-two .the-logos-sect .logo-main .blue-box button {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-top: 9px;
+}
+#contentPane-two .the-logos-sect .logo-main .blue-box button.blu-grd-btn {
+  color: white;
+  font-family: overpass, sans-serif;
+  font-size: 23.25px;
+  font-stretch: normal;
+  font-weight: normal;
+  letter-spacing: normal;
+  border: 0;
+  padding: 21.5px 0.5px;
+  width: 315.5px;
+  background-image: linear-gradient(103deg, #0c7db8, #009aa6 52%, #37bcbd 100%);
+}
+#contentPane-two .the-logos-sect .logo-main .white-box {
+  background-color: white;
+  width: 100%;
+  height: 517.5px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+#contentPane-two .the-logos-sect .logo-main .white-box .bio-true img.biotrue-logo {
+  width: 257.4px;
+  height: 137.5px;
+}
+#contentPane-two .the-logos-sect .logo-main .white-box .revive-sec img.revive-logo {
+  width: 257.4px;
+  height: 137.5px;
+}
+#contentPane-two .the-logos-sect .logo-main .white-box .novakone-sec img.novakone-logo {
+  width: 257.4px;
+  height: 137.5px;
+}
+#contentPane-two .the-logos-sect .logo-main .white-box button {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-top: 9px;
+}
+#contentPane-two .the-logos-sect .logo-main .white-box button.blu-grd-btn {
+  color: white;
+  font-family: overpass, sans-serif;
+  font-size: 23.25px;
+  font-stretch: normal;
+  font-weight: normal;
+  letter-spacing: normal;
+  border: 0;
+  padding: 21.5px 0.5px;
+  width: 315.5px;
+  background-image: linear-gradient(103deg, #0c7db8, #009aa6 52%, #37bcbd 100%);
+}
+
+section #BannerPane .banner-Section .main-bnr img.img-respsive {
+  width: 100%;
+}
+section #BannerPane .banner-Section .banner-text {
+  position: absolute;
+  top: 31%;
+  width: 403px;
+  max-width: 402px;
+  left: 11.25%;
+  text-align: center;
+}
+section #BannerPane .banner-Section .banner-text h1.Ready-to-fit-a-wide {
+  width: 556.25px;
+  text-align: left;
+  font-family: overpass, sans-serif;
+  font-size: 77.5px;
+  font-weight: 700;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.93;
+  letter-spacing: normal;
+  color: #0e568c;
+}
+section #BannerPane .banner-Section .banner-text p.Explore-our-full-por {
+  text-align: left;
+  font-family: overpass, sans-serif;
+  font-size: 34.45px;
+  font-weight: normal;
+  font-style: inherit;
+  color: #0e568c;
+}
+
+#ContentPane .Blue_Bar {
+  background-color: #0e568c;
+  padding: 88px 148px;
+}
+#ContentPane .Blue_Bar p.Excellent-patient-ca {
+  color: white;
+  text-align: center;
+  font-size: 36.35px;
+  font-weight: normal;
+  font-family: overpass, sans-serif;
+  line-height: 1.41;
+}
+
+footer.footer-bp {
+  background-image: linear-gradient(99deg, #0c7db8, #009aa6 52%, #37bcbd 100%);
+  padding: 34px 0;
+}
+footer.footer-bp .copyright-trade p {
+  margin-bottom: 0px;
+}
+footer.footer-bp .copyright-trade p.para {
+  margin-bottom: 6px;
+  color: white;
+  font-size: 14px;
+  font-weight: 400;
+  font-family: overpass, sans-serif;
+}
+footer.footer-bp .footer-sec ul.footerlinks {
+  list-style: none;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  margin-top: 20px;
+}
+footer.footer-bp .footer-sec ul.footerlinks li {
+  border-left: 2px solid white;
+  font-size: 14px;
+  padding: 0 8px 0 8px;
+  font-weight: 300;
+}
+footer.footer-bp .footer-sec ul.footerlinks li a {
+  color: white;
+}
+footer.footer-bp .footer-sec ul.footerlinks li:nth-child(1) {
+  border: none;
+}
+footer.footer-bp .footer-sec ul.footerlinks li:nth-child(3) {
+  padding-right: 0px;
+}
+footer.footer-bp .footer-logo a.anch-foot-logo {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: right;
+      -ms-flex-pack: right;
+          justify-content: right;
+  margin-top: 48px;
+  /* margin-right: 10px; */
+}
+footer.footer-bp .footer-logo a.anch-foot-logo img {
+  width: 220px;
+}
+
+@media screen and (max-width: 992px) {
+  footer.footer-bp .footer-sec .ft-cnts {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: reverse;
+        -ms-flex-direction: column-reverse;
+            flex-direction: column-reverse;
+  }
+  footer.footer-bp .footer-sec .ft-cnts .copyright-trade p {
+    margin-bottom: 0px;
+  }
+  footer.footer-bp .footer-sec .ft-cnts .copyright-trade p.para {
+    text-align: center;
+  }
+  footer.footer-bp .footer-sec .ft-cnts ul.footerlinks {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    text-align: center;
+  }
+  footer.footer-bp .footer-sec .footer-logo a.anch-foot-logo {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 19px;
+    /* margin-right: 10px; */
+  }
+  footer.footer-bp .footer-sec .footer-logo a.anch-foot-logo img {
+    width: 220px;
+  }
+}
+@media screen and (max-width: 992px) {
+  header.head-bar a.logo-link {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  header.head-bar a.logo-link img {
+    width: 250px;
+    height: 48px;
+    margin: 16px 0;
+    vertical-align: middle;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-line-pack: center;
+        align-content: center;
+  }
+  section #BannerPane .banner-Section img.img-respsive-mob {
+    width: 100%;
+  }
+  section #BannerPane .banner-Section .banner-text-mobile {
+    padding: 80px 20px;
+    width: 100%;
+    text-align: left;
+  }
+  section #BannerPane .banner-Section .banner-text-mobile h1.Ready-to-fit-a-wide-mobile {
+    width: 676.25px;
+    text-align: left;
+    font-family: overpass, sans-serif;
+    font-size: 37px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.93;
+    letter-spacing: normal;
+    color: #0e568c;
+  }
+  section #BannerPane .banner-Section .banner-text-mobile p.Explore-our-full-por-mobile {
+    width: 676.25px;
+    text-align: left;
+    font-family: overpass, sans-serif;
+    font-size: 17px;
+    font-weight: normal;
+    font-style: inherit;
+    color: #0e568c;
+  }
+  #ContentPane .Blue_Bar {
+    background-color: #0e568c;
+    padding: 88px 148px;
+  }
+  #ContentPane .Blue_Bar p.Excellent-patient-ca {
+    color: white;
+    text-align: center;
+    font-size: 34.35px;
+    font-weight: normal;
+    font-family: overpass, sans-serif;
+    line-height: 1.41;
+  }
+  #contentPane-two .the-logos-sect .logo-main {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    width: 100%;
+  }
+  #contentPane-two .the-logos-sect .logo-main .blue-box {
+    background-color: #5bc6e8;
+    width: 100%;
+    height: 364.5px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  #contentPane-two .the-logos-sect .logo-main .blue-box .infuse-sec img.infuse-logo {
+    width: 206.7px;
+    height: 90.75px;
+  }
+  #contentPane-two .the-logos-sect .logo-main .blue-box .ultra-sec img.ultra-logo {
+    width: 206.7px;
+    height: 90.75px;
+  }
+  #contentPane-two .the-logos-sect .logo-main .blue-box .zenlens-sec img.zenlens-logo {
+    width: 206.7px;
+    height: 90.75px;
+  }
+  #contentPane-two .the-logos-sect .logo-main .blue-box button {
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    margin-top: 9px;
+  }
+  #contentPane-two .the-logos-sect .logo-main .blue-box button.blu-grd-btn {
+    color: white;
+    font-family: overpass, sans-serif;
+    font-size: 19.25px;
+    font-stretch: normal;
+    font-weight: normal;
+    letter-spacing: normal;
+    border: 0;
+    padding: 19.5px 0.5px;
+    width: 290.5px;
+    background-image: linear-gradient(103deg, #0c7db8, #009aa6 52%, #37bcbd 100%);
+  }
+  #contentPane-two .the-logos-sect .logo-main .white-box {
+    background-color: white;
+    width: 100%;
+    height: 364.5px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  #contentPane-two .the-logos-sect .logo-main .white-box .bio-true img.biotrue-logo {
+    width: 206.7px;
+    height: 90.75px;
+  }
+  #contentPane-two .the-logos-sect .logo-main .white-box .revive-sec img.revive-logo {
+    width: 206.7px;
+    height: 90.75px;
+  }
+  #contentPane-two .the-logos-sect .logo-main .white-box .novakone-sec img.novakone-logo {
+    width: 206.7px;
+    height: 90.75px;
+  }
+  #contentPane-two .the-logos-sect .logo-main .white-box button {
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    margin-top: 9px;
+  }
+  #contentPane-two .the-logos-sect .logo-main .white-box button.blu-grd-btn {
+    color: white;
+    font-family: overpass, sans-serif;
+    font-size: 19.25px;
+    font-stretch: normal;
+    font-weight: normal;
+    letter-spacing: normal;
+    border: 0;
+    padding: 19.5px 0.5px;
+    width: 290.5px;
+    background-image: linear-gradient(103deg, #0c7db8, #009aa6 52%, #37bcbd 100%);
+  }
+}

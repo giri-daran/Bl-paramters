@@ -1,0 +1,170 @@
+@media screen and (max-width:992px){
+    header.head-bar{
+            a.logo-link{ 
+                display: flex;
+                justify-content: center;
+                img {
+                    width: 250px;
+                    height: 48px;
+                    margin: 16px 0;
+                    vertical-align: middle;
+                    display: flex;
+                    align-content: center;
+                }
+        }
+    }
+    section #BannerPane{
+        .banner-Section{
+            img.img-respsive-mob{
+                width: 100%;
+            }
+            .banner-text-mobile{
+                padding: 80px 20px;
+                
+                width: 100%;
+                text-align: left;
+            
+                h1.Ready-to-fit-a-wide-mobile {
+                    width:676.25px;
+                    text-align: left;
+                    font-family:$overpass-font;
+                    font-size: 37px;
+                    font-weight: bold;
+                    font-stretch: normal;
+                    font-style: normal;
+                    line-height: 0.93;
+                    letter-spacing: normal;
+                    color: #0e568c;
+                }
+                p.Explore-our-full-por-mobile {
+                    width:676.25px;
+                    text-align: left;
+                    font-family: $overpass-font;
+                    font-size: 17px;
+                    font-weight: normal; 
+                    font-style: inherit; 
+                    color: #0e568c;
+                }
+            }
+            
+        }
+    }
+    #ContentPane{
+        .Blue_Bar {
+            background-color: #0e568c;
+            padding: 88px 148px;
+    
+            p.Excellent-patient-ca {
+                color: $white-color;
+                text-align: center;
+                font-size: $font-size-df;
+                font-weight: normal;
+                font-family: $overpass-font;
+                line-height: 1.41;
+            }
+        }
+    }
+
+    // Content pane two
+
+#contentPane-two{
+    .the-logos-sect{
+        .logo-main{
+            display: flex;
+            flex-direction: row;
+            width: 100%;
+            .blue-box{
+                background-color: #5bc6e8;
+                width:100%;
+                height: 364.5px;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                
+                .infuse-sec{
+                    img.infuse-logo{
+                        width: 206.7px;
+                        height: 90.75px;
+                        
+                    }
+                }
+                .ultra-sec{
+                    img.ultra-logo{
+                        width: 206.7px;
+                        height: 90.75px;
+                    }
+                }
+                .zenlens-sec{
+                    img.zenlens-logo{
+                        width: 206.7px;
+                        height: 90.75px;
+                    }
+                }
+                button{
+                    align-items: center;
+                    margin-top:9px;
+                }
+                button.blu-grd-btn{
+                    color:$white-color;
+                    font-family: $overpass-font;
+                    font-size: 19.25px;
+                    font-stretch: normal;
+                    font-weight: normal;
+                    letter-spacing: normal;
+                    border:0;
+                    padding: 19.5px 0.5px;
+                    width: 290.5px;
+                    background-image: linear-gradient(103deg, #0c7db8, #009aa6 52%, #37bcbd 100%);
+                }
+            }
+            .white-box{
+                background-color: $white-color;
+                width:100%;
+                height: 364.5px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                flex-direction: column;
+                
+                .bio-true{
+                    img.biotrue-logo{
+                        width: 206.7px;
+                        height: 90.75px;
+                    }
+                }
+
+                .revive-sec{
+                    img.revive-logo{
+                        width: 206.7px;
+                        height: 90.75px;
+                    }
+                }
+                .novakone-sec{
+                    img.novakone-logo{
+                        width: 206.7px;
+                        height: 90.75px;
+                    }
+                }
+
+                button{
+                    align-items: center;
+                    margin-top:9px;
+                }
+                button.blu-grd-btn{
+                    color:$white-color;
+                    font-family: $overpass-font;
+                    font-size: 19.25px;
+                    font-stretch: normal;
+                    font-weight: normal;
+                    letter-spacing: normal;
+                    border:0;
+                    padding: 19.5px 0.5px;
+                    width: 290.5px;
+                    background-image: $footer-bg;
+                }
+            }
+        }
+    }
+}
+}

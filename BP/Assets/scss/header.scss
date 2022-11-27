@@ -1,0 +1,27 @@
+header.head-bar{
+    .NAV-Bar.nav-head{
+        background-color: $head-background;
+        width:100%;
+        padding: 13px 0;
+    }
+    a.logo-link img {
+        width: 257px;
+        height: 48px;
+        margin: 16px 0;
+        vertical-align: middle;
+    }
+    .contact-sec {
+        justify-content: end;
+        display: flex;
+       
+        p {
+            margin-top: 30px;
+            margin-bottom: 0px;
+        }
+        span.contact-us {
+            color: white;
+            text-decoration: underline;
+            font-size: 15px;
+        }
+    }     
+}
